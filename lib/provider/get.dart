@@ -8,9 +8,9 @@ import 'package:cinema/class/session_info.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:tmdb_api/tmdb_api.dart';
 
-String _apiKey = "cf3e00ea296dc09f246e77b036845049";
+String _apiKey = "your api key";
 String _readaccesstoken =
-    "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjZjNlMDBlYTI5NmRjMDlmMjQ2ZTc3YjAzNjg0NTA0OSIsInN1YiI6IjY1NGU1N2E1ZDQ2NTM3MDBhYjk1MWU4NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.qPLTdMHqloyXvRf9QWKmH__NrlHNZmJZUziWkXJKo00";
+    "your pulling tokenaccess";
 
 TMDB tmdbWithCustomLogs = TMDB(
   ApiKeys(_apiKey, _readaccesstoken),
