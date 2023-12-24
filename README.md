@@ -1,2 +1,2 @@
 # muvi-App
-you can see all movies and updates of that movies as well and the showes upcomming and Which is trending Right now 😁
+you can see all movies and updates  as well as the showes upcomming, Which is trending Right now 😁
